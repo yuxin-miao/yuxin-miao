@@ -1,13 +1,6 @@
 ## 👋 Hi there 
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=yuxin-miao&show_icons=true&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuxin-miao&layout=compact&langs_count=7&exclude_repo=yuxin-miao.github.io&hide=jupyter%20notebook&count_private=true" />
-  </a>
-</p>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### 🛠 Some Projects
